@@ -1,0 +1,12 @@
+# Repository Structure
+portfolio/
+├── about/
+│   └── README.md           # Professional bio & technical skills
+├── projects/
+│   ├── vmware-lab/        # ATCO Enterprise Network documentation
+│   ├── aws-projects/      # AWS implementations
+│   └── security/          # Security configurations & best practices
+├── certifications/
+│   └── training/          # Training progress & notes
+└── technical-writing/
+    └── documentation/     # System documentation & guides
